@@ -21,5 +21,5 @@ jupyter notebook "HW_2_OOP_Testing_Git (2).ipynb"
 
 
 ## Автор
-Сергей Гаврилов, ТАДР 252
+Сергей Гаврилов, ТАДБ 252
 
