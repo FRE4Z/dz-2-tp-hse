@@ -13,3 +13,13 @@
 1. Откройте Jupyter Notebook:
 ```bash
 jupyter notebook "HW_2_OOP_Testing_Git (2).ipynb"
+
+```
+2. Запустите все ячейки с классами (Ingredient, Recipe, DietaryRecipe, ShoppingList)
+3. Для проверки работы создайте объекты классов и вызовите их методы
+4. Для запуска тестов выполните в терминале: pytest test_recipes.py -v
+
+
+## Автор
+Сергей Гаврилов, ТАДР 252
+
