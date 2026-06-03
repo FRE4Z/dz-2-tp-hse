@@ -8,7 +8,7 @@
 ## Установка
 1. Клонируйте репозиторий: git clone https://github.com/FRE4Z/dz-2-tp-hse.git
 2.  Установите requirements :pip install -r requirements.txt
-3.  
+ 
 ## Использование
 1. Откройте Jupyter Notebook:
 ```bash
